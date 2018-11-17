@@ -1,7 +1,7 @@
 token=NTExOTgwNzY2OTg5NjQ3ODkx.Dsyy6Q.izU38VBaEmMsgCPyIOj4P9eNRVg
-owner=485579083649122304
-prefix=4
-game= BOND MUSIC.
+owner=508278062518108160
+prefix=_
+game= .Crossover
 stayinchannel=true
 songinstatus=false
 status=idle
